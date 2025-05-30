@@ -1,4 +1,4 @@
-# Hugo Gallery Site
+# Hugo Gallery Site 
 
 ## Features
 
@@ -15,6 +15,7 @@
    git clone --recurse-submodules https://github.com/concosminx/hugo-gallery.git
    ```
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).
+   
 3. Run the development server:
    ```sh
    hugo server
