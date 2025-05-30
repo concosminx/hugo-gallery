@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://concosminx.github.io/hugo-gallery/'
 theme = 'gallery'
 copyright = "© C. C."
 defaultContentLanguage = "en"
