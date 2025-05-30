@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>City on Gallery</title>
+    <link>https://concosminx.github.io/hugo-gallery/categories/city/</link>
+    <description>Recent content in City on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <copyright>© C. C.</copyright><atom:link href="https://concosminx.github.io/hugo-gallery/categories/city/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Athens</title>
+      <link>https://concosminx.github.io/hugo-gallery/cities/athens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://concosminx.github.io/hugo-gallery/cities/athens/</guid>
+        <media:content url="https://concosminx.github.io/hugo-gallery/cities/athens/Odeon%20of%20Herodes%20Atticus,%20001_hu2244204291542370238.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://concosminx.github.io/hugo-gallery/cities/athens/Odeon%20of%20Herodes%20Atticus,%20001_hu2244204291542370238.jpg&quot; /&gt;
+          &lt;p&gt;Athens - City Break&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Barcelona</title>
+      <link>https://concosminx.github.io/hugo-gallery/cities/barcelona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://concosminx.github.io/hugo-gallery/cities/barcelona/</guid>
+        <media:content url="https://concosminx.github.io/hugo-gallery/cities/barcelona/Casa%20Batll%C3%B3,%20001_hu8946745994104102316.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://concosminx.github.io/hugo-gallery/cities/barcelona/Casa%20Batll%C3%B3,%20001_hu8946745994104102316.jpg&quot; /&gt;
+          &lt;p&gt;Barcelona - City Break&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
