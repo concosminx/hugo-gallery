@@ -1,4 +1,4 @@
-baseURL = 'https://concosminx.github.io/hugo-gallery/'
+baseURL = 'https://photo.pakithecat.eu/'
 theme = 'gallery'
 copyright = "© C. C."
 defaultContentLanguage = "en"
