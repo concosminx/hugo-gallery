@@ -1,49 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Gallery on Gallery</title>
+    <title>Gallery</title>
     <link>https://photo.pakithecat.eu/</link>
-    <description>Recent content in Hugo Gallery on Gallery</description>
+    <description>Recent content on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Your Name)</managingEditor>
-    <webMaster>user@example.com (Your Name)</webMaster>
+    <managingEditor>concosminx@gmail.com (C. C.)</managingEditor>
+    <webMaster>concosminx@gmail.com (C. C.)</webMaster>
     <copyright>© C. C.</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0300</lastBuildDate><atom:link href="https://photo.pakithecat.eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0300</lastBuildDate><atom:link href="https://photo.pakithecat.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Athens</title>
-      <link>https://photo.pakithecat.eu/cities/athens/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://photo.pakithecat.eu/cities/athens/</guid>
-        <media:content url="https://photo.pakithecat.eu/cities/athens/Odeon%20of%20Herodes%20Atticus,%20001_hu2244204291542370238.jpg" type="image/jpeg"/>
+      <link>https://photo.pakithecat.eu/places/athens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/places/athens/</guid>
+        <media:content url="https://photo.pakithecat.eu/places/athens/Odeon%20of%20Herodes%20Atticus,%20001_hu2244204291542370238.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://photo.pakithecat.eu/cities/athens/Odeon%20of%20Herodes%20Atticus,%20001_hu2244204291542370238.jpg&quot; /&gt;
+          &lt;img src=&quot;https://photo.pakithecat.eu/places/athens/Odeon%20of%20Herodes%20Atticus,%20001_hu2244204291542370238.jpg&quot; /&gt;
           &lt;p&gt;Athens - City Break&lt;/p&gt;
         </description></item>
     <item>
       <title>Barcelona</title>
-      <link>https://photo.pakithecat.eu/cities/barcelona/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://photo.pakithecat.eu/cities/barcelona/</guid>
-        <media:content url="https://photo.pakithecat.eu/cities/barcelona/Casa%20Batll%C3%B3,%20001_hu8946745994104102316.jpg" type="image/jpeg"/>
+      <link>https://photo.pakithecat.eu/places/barcelona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/places/barcelona/</guid>
+        <media:content url="https://photo.pakithecat.eu/places/barcelona/Casa%20Batll%C3%B3,%20001_hu8946745994104102316.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://photo.pakithecat.eu/cities/barcelona/Casa%20Batll%C3%B3,%20001_hu8946745994104102316.jpg&quot; /&gt;
+          &lt;img src=&quot;https://photo.pakithecat.eu/places/barcelona/Casa%20Batll%C3%B3,%20001_hu8946745994104102316.jpg&quot; /&gt;
           &lt;p&gt;Barcelona - City Break&lt;/p&gt;
         </description></item>
     <item>
-      <title>Nature</title>
-      <link>https://photo.pakithecat.eu/nature/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://photo.pakithecat.eu/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+      <title>Malita</title>
+      <link>https://photo.pakithecat.eu/nature/malita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/nature/malita/</guid>
+        <media:content url="https://photo.pakithecat.eu/nature/malita/Malita,%20002_hu6940983387735083872.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.pakithecat.eu/nature/malita/Malita,%20002_hu6940983387735083872.jpg&quot; /&gt;
+          &lt;p&gt;Stana - Malita&lt;/p&gt;
+        </description></item>
     <item>
-      <title>Cats</title>
-      <link>https://photo.pakithecat.eu/animals/cats/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0300</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://photo.pakithecat.eu/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+      <title>Paki</title>
+      <link>https://photo.pakithecat.eu/animals/paki/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0300</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/animals/paki/</guid>
+        <media:content url="https://photo.pakithecat.eu/animals/paki/Paki,%20008_hu2056497865081629152.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.pakithecat.eu/animals/paki/Paki,%20008_hu2056497865081629152.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
-      <title>Dogs</title>
-      <link>https://photo.pakithecat.eu/animals/dogs/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0200</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://photo.pakithecat.eu/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <title>Other</title>
+      <link>https://photo.pakithecat.eu/animals/other/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0200</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/animals/other/</guid>
+        <media:content url="https://photo.pakithecat.eu/animals/other/Malita,%20001_hu18079728655370351698.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.pakithecat.eu/animals/other/Malita,%20001_hu18079728655370351698.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>

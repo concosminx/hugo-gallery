@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Places on Gallery</title>
+    <link>https://photo.pakithecat.eu/categories/places/</link>
+    <description>Recent content in Places on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>concosminx@gmail.com (C. C.)</managingEditor>
+    <webMaster>concosminx@gmail.com (C. C.)</webMaster>
+    <copyright>© C. C.</copyright><atom:link href="https://photo.pakithecat.eu/categories/places/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Athens</title>
+      <link>https://photo.pakithecat.eu/places/athens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/places/athens/</guid>
+        <media:content url="https://photo.pakithecat.eu/places/athens/Odeon%20of%20Herodes%20Atticus,%20001_hu2244204291542370238.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.pakithecat.eu/places/athens/Odeon%20of%20Herodes%20Atticus,%20001_hu2244204291542370238.jpg&quot; /&gt;
+          &lt;p&gt;Athens - City Break&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Barcelona</title>
+      <link>https://photo.pakithecat.eu/places/barcelona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/places/barcelona/</guid>
+        <media:content url="https://photo.pakithecat.eu/places/barcelona/Casa%20Batll%C3%B3,%20001_hu8946745994104102316.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.pakithecat.eu/places/barcelona/Casa%20Batll%C3%B3,%20001_hu8946745994104102316.jpg&quot; /&gt;
+          &lt;p&gt;Barcelona - City Break&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

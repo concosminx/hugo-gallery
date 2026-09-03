@@ -3,33 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://photo.pakithecat.eu/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+03:00</lastmod>
+    <lastmod>2025-09-03T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://photo.pakithecat.eu/cities/</loc>
+    <loc>https://photo.pakithecat.eu/places/</loc>
   </url><url>
-    <loc>https://photo.pakithecat.eu/cities/athens/</loc>
+    <loc>https://photo.pakithecat.eu/places/athens/</loc>
   </url><url>
-    <loc>https://photo.pakithecat.eu/cities/barcelona/</loc>
+    <loc>https://photo.pakithecat.eu/places/barcelona/</loc>
+  </url><url>
+    <loc>https://photo.pakithecat.eu/nature/malita/</loc>
   </url><url>
     <loc>https://photo.pakithecat.eu/nature/</loc>
   </url><url>
     <loc>https://photo.pakithecat.eu/categories/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://photo.pakithecat.eu/animals/cats/</loc>
-    <lastmod>2023-04-01T00:00:00+03:00</lastmod>
+    <lastmod>2025-09-03T00:00:00+03:00</lastmod>
   </url><url>
     <loc>https://photo.pakithecat.eu/</loc>
-    <lastmod>2023-04-01T00:00:00+03:00</lastmod>
+    <lastmod>2025-09-03T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://photo.pakithecat.eu/animals/paki/</loc>
+    <lastmod>2025-09-03T00:00:00+03:00</lastmod>
   </url><url>
     <loc>https://photo.pakithecat.eu/categories/nature/</loc>
-    <lastmod>2023-04-01T00:00:00+03:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://photo.pakithecat.eu/animals/dogs/</loc>
+    <loc>https://photo.pakithecat.eu/animals/other/</loc>
     <lastmod>2023-01-12T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://photo.pakithecat.eu/about/</loc>
   </url><url>
-    <loc>https://photo.pakithecat.eu/categories/city/</loc>
+    <loc>https://photo.pakithecat.eu/categories/places/</loc>
   </url>
 </urlset>

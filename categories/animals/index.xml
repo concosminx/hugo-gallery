@@ -6,19 +6,29 @@
     <description>Recent content in Animals on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Your Name)</managingEditor>
-    <webMaster>user@example.com (Your Name)</webMaster>
+    <managingEditor>concosminx@gmail.com (C. C.)</managingEditor>
+    <webMaster>concosminx@gmail.com (C. C.)</webMaster>
     <copyright>© C. C.</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0300</lastBuildDate><atom:link href="https://photo.pakithecat.eu/categories/animals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0300</lastBuildDate><atom:link href="https://photo.pakithecat.eu/categories/animals/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cats</title>
-      <link>https://photo.pakithecat.eu/animals/cats/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0300</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://photo.pakithecat.eu/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+      <title>Paki</title>
+      <link>https://photo.pakithecat.eu/animals/paki/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0300</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/animals/paki/</guid>
+        <media:content url="https://photo.pakithecat.eu/animals/paki/Paki,%20008_hu2056497865081629152.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.pakithecat.eu/animals/paki/Paki,%20008_hu2056497865081629152.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
-      <title>Dogs</title>
-      <link>https://photo.pakithecat.eu/animals/dogs/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0200</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://photo.pakithecat.eu/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <title>Other</title>
+      <link>https://photo.pakithecat.eu/animals/other/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0200</pubDate><author>concosminx@gmail.com (C. C.)</author>
+      <guid>https://photo.pakithecat.eu/animals/other/</guid>
+        <media:content url="https://photo.pakithecat.eu/animals/other/Malita,%20001_hu18079728655370351698.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://photo.pakithecat.eu/animals/other/Malita,%20001_hu18079728655370351698.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>
