@@ -3,7 +3,7 @@ description: Athens - City Break
 menus: "main"
 title: Athens
 weight: 2
-categories: ["city"]
+categories: ["Places"]
 #params:
 #  theme: light
 resources:

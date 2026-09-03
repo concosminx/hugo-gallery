@@ -1,7 +1,7 @@
 ---
-description: An example site for hugo-theme-gallery. Images from own archive.
-#lastmod: 2023-07-05
-title: Hugo Gallery
+description: Images from own archive.
+#lastmod: 2026-09-03
+title: Gallery
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:

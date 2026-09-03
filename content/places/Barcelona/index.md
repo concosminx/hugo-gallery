@@ -3,7 +3,7 @@ description: Barcelona - City Break
 menus: "main"
 title: Barcelona
 weight: 2
-categories: ["city"]
+categories: ["Places"]
 #params:
 #  theme: light
 resources:
